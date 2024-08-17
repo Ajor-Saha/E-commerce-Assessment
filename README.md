@@ -2,7 +2,8 @@
 
 [Visit Now](https://e-commerce-assessment-jw2k.vercel.app/) 🚀
 
-[Video Demostration](https:https://drive.google.com/file/d/16dqi0m4R9Jbq9qroewoB0alT4KDwAr4n/view?usp=sharing)
+[Video Demostration](https://drive.google.com/file/d/16dqi0m4R9Jbq9qroewoB0alT4KDwAr4n/view?usp=sharing) 🚀
+
 
 
 ### Project Feature 
@@ -54,3 +55,4 @@ cd client
 npm install  
 npm run dev
 ```
+
