@@ -18,7 +18,7 @@ const ShoppingList = () => {
   }, [cartItems, dispatch]);
 
   return (
-    <div className="font-[sans-serif] w-[640px] sm:w-full py-20 mt-10 dark:bg-gray-900 bg-white">
+    <div className="font-[sans-serif] w-[640px] min-h-screen sm:w-full py-20 mt-10 dark:bg-gray-900 bg-white">
       <div className="grid lg:grid-cols-3 gap-12 p-6">
         {cartItems.length === 0 ? (
           <div className="text-center text-xl text-gray-500 dark:text-white lg:col-span-3">
